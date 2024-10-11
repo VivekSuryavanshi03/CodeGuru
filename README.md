@@ -1,6 +1,7 @@
 # CodeGuru: A Code Teaching Assistant
 
 Check out the live application: [CodeGuru](https://838bb905eb1e585e5f.gradio.live) 
+![Demo_application](https://github.com/VivekSuryavanshi03/CodeGuru/blob/7d6ea3758d3588ca48110c2a8833a2b2cf62a9b3/visuals/image.png)
 
 This is a Gradio-based frontend application using LangChain and Codellama models. The application serves as a code assistant, answering code-related questions based on user prompts.
 

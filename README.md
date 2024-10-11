@@ -26,7 +26,7 @@ To get the application running on your local machine, follow the instructions be
 
 ### 1. Clone the Repository
 ```bash
-pip install -r requirements.txt && python app.py
+https://github.com/VivekSuryavanshi03/CodeGuru.git
 ```
 
 ### 2. Install Dependencies and Run in One Step
